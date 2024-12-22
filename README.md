@@ -1,6 +1,6 @@
 # Micromouse Project by Nguyễn Hoàng Minh Giang
 
-This repository contains the full code for our Micromouse project using Arduino and the MMS (Micromouse Simulator). The project demonstrates the implementation of a Micromouse that can navigate a maze using sensors, encoders, and motor control.
+This repository contains the full code for our Micromouse project using Arduino and Mackorone's Simulator the MMS (Micromouse Simulator) for testing and simulating our algorithm. The project demonstrates the implementation of a Micromouse that can navigate a maze using sensors, encoders, and motor control.
 
 ## Table of Contents
 
